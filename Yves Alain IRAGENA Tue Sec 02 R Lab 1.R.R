@@ -72,4 +72,4 @@ propgirls<- girls/total
 
 #Let's now plot the proportion of girls for each year.
 plot (x=year, y=propgirls, type = "l")
-#check github pushing
+
